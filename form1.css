@@ -9,8 +9,17 @@ background: #EBF3FD 0% 0% no-repeat padding-box;
 opacity: 1;
 }
 
-.theme-entry .view .innerpanel>.grid, .theme-entry .view .innerpanel>.panel, .theme-entry .view-canvas>.grid, .theme-entry .view-canvas>.panel {
-  background: ##808080;
+[name='Table20']{
+top: 241px !important;
+left: 590px !important;
+width: 515px !important;
+height: 222px !important;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box !important;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 15px #0066CC40 !important;
+border-radius: 0px 0px 15px 15px !important;
+opacity: 1;
 }
 
 [name='V1'] {
