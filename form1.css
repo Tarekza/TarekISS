@@ -9,14 +9,14 @@ background: #EBF3FD 0% 0% no-repeat padding-box;
 opacity: 1;
 }
 
-[name = 'V1'] {
-top: 115px;
-left: 1140px;
-width: 226px;
-height: 653px;
-background: var(--unnamed-color-0066cc) 0% 0% no-repeat padding-box;
-background: #0066CC 0% 0% no-repeat padding-box;
-box-shadow: 0px 0px 15px #0066CC80;
-border-radius: 15px 0px 0px 0px;
-opacity: 1;
+#8eab8788-ec89-46c6-ae09-2f09c4748a79_c904b67b-905e-db02-2c06-5a56c738fa21_708a2b27-db70-99d5-6665-f77a3ba8b315_9af75ae4-8c31-4384-ba5a-d3de156f5a3f[style] {
+top: 115px !important;
+left: 1140px !important;
+width: 226px !important;
+height: 653px !important;
+background: var(--unnamed-color-0066cc) 0% 0% no-repeat padding-box !important;
+background: #0066CC 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 15px #0066CC80 !important;
+border-radius: 15px 0px 0px 0px !important;
+opacity: 1 !important;
 }
