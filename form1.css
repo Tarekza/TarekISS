@@ -9,7 +9,7 @@ background: #EBF3FD 0% 0% no-repeat padding-box;
 opacity: 1;
 }
 
-[name*=V2] {
+[name = 'V1'] {
 top: 115px;
 left: 1140px;
 width: 226px;
