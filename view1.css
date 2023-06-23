@@ -1,0 +1,11 @@
+.theme-entry div::selection {
+top: 115px;
+left: 1140px;
+width: 226px;
+height: 653px;
+background: var(--unnamed-color-0066cc) 0% 0% no-repeat padding-box;
+background: #0066CC 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 15px #0066CC80;
+border-radius: 15px 0px 0px 0px;
+opacity: 1;
+}
