@@ -9,7 +9,7 @@ background: #EBF3FD 0% 0% no-repeat padding-box;
 opacity: 1;
 }
 
-.form .row:last-child > * {
+.theme-entry .radio::selection, .theme-entry .radio input::selection, .theme-entry .radio .input-control-img::selection, .theme-entry .radio .input-control-text::selection, .theme-entry .checkbox::selection, .theme-entry .checkbox input::selection, .theme-entry .checkbox .input-control-img::selection, .theme-entry .checkbox .input-control-text::selection, .theme-entry tr::selection, .theme-entry td::selection, .theme-entry div::selection {
 top: 115px;
 left: 1140px;
 width: 226px;
