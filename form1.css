@@ -1,0 +1,10 @@
+.theme-entry .form{
+top: 0px;
+left: 0px;
+width: 1366px;
+height: 768px;
+/* UI Properties */
+background: var(--unnamed-color-ebf3fd) 0% 0% no-repeat padding-box;
+background: #EBF3FD 0% 0% no-repeat padding-box;
+opacity: 1;
+}
