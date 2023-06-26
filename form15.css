@@ -34,20 +34,7 @@ background: #FFFFFF 0% 0% no-repeat padding-box !important;
 opacity: 1 !important;
 }
 
-[name='Label2']{
 
-top: 196px !important;
-left: 1032px !important;
-width: 59px !important;
-height: 34px !important;
-/* UI Properties */
-color: var(--unnamed-color-f96523) !important;
-text-align: right !important;
-font: normal normal bold 20px/34px SWCC !important;
-letter-spacing: 0.4px !important;
-color: #F96523 !important;
-opacity: 1 !important;
-}
 
 
 
