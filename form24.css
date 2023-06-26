@@ -23,15 +23,7 @@ border-radius: 15px 0px 0px 0px !important;
 opacity: 1 !important;
 }
 
-[name='V2']{
-position: fixed !important;
-top: 0px !important;
-left: 0px !important;
-width: 1366px !important;
-height: 80px !important;
 
-opacity: 1 !important;
-}
 
 [name='Table2']{
 position: fixed !important;
