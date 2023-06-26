@@ -11,7 +11,8 @@ opacity: 1 !important;
 }
 [name='V1'] {
 position: fixed !important;
-top: 20px !important;
+top: 115px !important;
+left: 1140px !important;
 width: 226px !important;
 height: 653px !important;
 /* UI Properties */
