@@ -5,3 +5,7 @@
 body.theme-entry {
     background: blue !important;
 }
+
+.panel-header {
+    display: none;
+}
