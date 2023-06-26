@@ -34,19 +34,7 @@ background: #FFFFFF 0% 0% no-repeat padding-box !important;
 opacity: 1 !important;
 }
 
-[name="Cell2"]{
-position: relative !important;
-top: 187px !important;
-left: 920px !important;
-width: 185px !important;
-height: 51px !important;
-/* UI Properties */
-background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box !important;
-background: #FFFFFF 0% 0% no-repeat padding-box !important;
-box-shadow: 0px 0px 15px #0066CC40 !important;
-border-radius: 10px 10px 2px 2px !important;
-opacity: 1 !important;
-}
+
 
 
 
