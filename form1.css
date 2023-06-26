@@ -1,3 +1,7 @@
 [name='V1'] {
     background: red !important;
 }
+
+body.theme-entry {
+    background: blue !important;
+}
