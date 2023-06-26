@@ -1,4 +1,5 @@
 [name='form1']{
+position: relative !important;
 top: 0px !important;
 left: 0px !important;
 width: 1366px !important;
@@ -9,6 +10,7 @@ background: #EBF3FD 0% 0% no-repeat padding-box !important;
 opacity: 1 !important;
 }
 [name='V1'] {
+position: relative !important;
 top: 20px !important;
 left: 1140px !important;
 width: 226px !important;
@@ -22,6 +24,7 @@ opacity: 1 !important;
 }
 
 [name='V2']{
+position: relative !important;
 top: 0px !important;
 left: 0px !important;
 width: 1366px !important;
