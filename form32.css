@@ -224,6 +224,7 @@ opacity: 1 !important;
 left: 940px !important;
 width: 34px !important;
 height: 34px !important;
+    border-radius: 50% !important;
 /* UI Properties */
 background: var(--unnamed-color-f96523) 0% 0% no-repeat padding-box !important;
 background: #F96523 0% 0% no-repeat padding-box !important;
@@ -235,6 +236,7 @@ opacity: 1 !important;
 left: 730px !important;
 width: 34px !important;
 height: 34px !important;
+    border-radius: 50% !important;
 /* UI Properties */
 background: var(--unnamed-color-f96523) 0% 0% no-repeat padding-box !important;
 background: #F96523 0% 0% no-repeat padding-box !important;
@@ -246,6 +248,7 @@ opacity: 0.21 !important;
 left: 520px !important;
 width: 34px !important;
 height: 34px !important;
+    border-radius: 50% !important;
 /* UI Properties */
 background: var(--unnamed-color-f96523) 0% 0% no-repeat padding-box !important;
 background: #F96523 0% 0% no-repeat padding-box !important;
