@@ -280,7 +280,7 @@ color: var(--unnamed-color-f96523) !important;
 text-align: right !important;
 font: normal normal bold 24px/40px SWCC !important;
 letter-spacing: 0px !important;
-color: #F96523 !important;
+color:  #FFFFFF !important;
 opacity: 0.75 !important;
 }
 [name="Label_b"]{
@@ -294,7 +294,7 @@ color: var(--unnamed-color-f96523) !important;
 text-align: center !important;
 font: normal normal bold 24px/40px SWCC !important;
 letter-spacing: 0px !important;
-color: #F96523 !important;
+color:  #FFFFFF !important;
 opacity: 0.75 !important;
 }
 
