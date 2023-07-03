@@ -147,7 +147,110 @@ letter-spacing: 0.46px !important;
 color: #004687 !important;
 opacity: 1 !important;
 }
+[name='Label1']{
+position: fixed !important;
+top: 27px !important;
+left: 915px !important;
+width: 170px !important;
+height: 27px !important;
+/* UI Properties */
+color: var(--unnamed-color-c9c9c9) !important;
+text-align: right !important;
+font: normal normal medium 16px/27px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #C9C9C9 !important;
+opacity: 1 !important;
+}
 
+[name="Picture3"]{
+position: fixed !important;
+top: 30px !important;
+left: 500px !important;
+width: 20px !important;
+height: 20px !important;
+/* UI Properties */
+background: transparent url('img/search_icon.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
+
+[name="Label2"]{
+    position: fixed !important;
+    top: 196px !important;
+left: 1032px !important;
+width: 59px !important;
+height: 34px !important;
+/* UI Properties */
+color: var(--unnamed-color-f96523) !important;
+text-align: right !important;
+font: normal normal bold 20px/34px SWCC !important;
+letter-spacing: 0.4px !important;
+color: #F96523 !important;
+opacity: 1 !important;
+}
+
+[name="Label4"]{
+    position: fixed !important;
+    top: 196px !important;
+left: 824px !important;
+width: 57px !important;
+height: 34px !important;
+/* UI Properties */
+color: var(--unnamed-color-505050) !important;
+text-align: right !important;
+font: normal normal bold 20px/34px SWCC !important;
+letter-spacing: 0.4px !important;
+color: #505050 !important;
+opacity: 1 !important;
+}
+
+[name="Label6"]{
+    position: fixed !important;
+    top: 196px !important;
+left: 600px !important;
+width: 71px !important;
+height: 34px !important;
+/* UI Properties */
+color: var(--unnamed-color-505050) !important;
+text-align: right !important;
+font: normal normal bold 20px/34px SWCC !important;
+letter-spacing: 0.4px !important;
+color: #505050 !important;
+opacity: 1 !important;
+}
+
+[name="Table6_c"]{
+    position: fixed !important;
+    top: 196px !important;
+left: 940px !important;
+width: 34px !important;
+height: 34px !important;
+/* UI Properties */
+background: var(--unnamed-color-f96523) 0% 0% no-repeat padding-box !important;
+background: #F96523 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
+[name="Table5_b"]{
+    position: fixed !important;
+    top: 196px !important;
+left: 730px !important;
+width: 34px !important;
+height: 34px !important;
+/* UI Properties */
+background: var(--unnamed-color-f96523) 0% 0% no-repeat padding-box !important;
+background: #F96523 0% 0% no-repeat padding-box !important;
+opacity: 0.21 !important;
+}
+[name="Table4_a"]{
+    position: fixed !important;
+    top: 196px !important;
+left: 520px !important;
+width: 34px !important;
+height: 34px !important;
+/* UI Properties */
+background: var(--unnamed-color-f96523) 0% 0% no-repeat padding-box !important;
+background: #F96523 0% 0% no-repeat padding-box !important;
+opacity: 0.21 !important;
+}
 
 
 
