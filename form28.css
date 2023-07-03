@@ -22,6 +22,18 @@ box-shadow: 0px 0px 15px #0066CC80 !important;
 border-radius: 15px 0px 0px 0px !important;
 opacity: 1 !important;
 }
+[name='V2'] {
+    position: fixed !important;
+top: 0px;
+left: 0px;
+width: 1366px;
+height: 80px;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
 
 [name='Table2']{
 position: fixed !important;
@@ -62,9 +74,65 @@ box-shadow: 0px 0px 15px #0066CC40 !important;
 border-radius: 10px 10px 2px 2px !important;
 opacity: 1 !important;
 }
+[name='Picture1']{
+    position: fixed !important;
+top: 14px !important;
+left: 1143px !important;
+width: 181px !important;
+height: 51px !important;
+/* UI Properties */
+background: transparent url('img/swcc-logo.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
 
+[name='Picture2']{
+    position: fixed !important;
+top: 20px !important;
+left: 260px !important;
+width: 40px !important;
+height: 40px !important;
+/* UI Properties */
+background: transparent url('img/notification_icon.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
+[name='Picture']{
+    position: fixed !important;
+top: 14px !important;
+left: 147px !important;
+width: 52px !important;
+height: 52px !important;
+/* UI Properties */
+background: transparent url('img/User_photo.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
 
+[name='Label']{
+    position: fixed !important;
+top: 23px !important;
+left: 40px !important;
+width: 94px !important;
+height: 34px !important;
+color: var(--unnamed-color-0066cc) !important;
+text-align: right !important;
+font: normal normal bold 20px/34px SWCC !important;
+letter-spacing: 0.4px !important;
+color: #0066CC !important;
+opacity: 1 !important;
+}
 
+[name='Table-123']{
+    position: fixed !important;
+top: 22px !important;
+left: 480px !important;
+width: 625px !important;
+height: 37px !important;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box !important;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 10px #0066CC40 !important;
+border-radius: 10px !important;
+opacity: 1 !important;
+}
 
 
 
