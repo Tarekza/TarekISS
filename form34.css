@@ -255,6 +255,48 @@ background: #F96523 0% 0% no-repeat padding-box !important;
 opacity: 0.21 !important;
 }
 
+[name="Label_t"]{
+    position: fixed !important;
+    top: 193px !important;
+left: 951px !important;
+width: 12px !important;
+height: 40px !important;
+/* UI Properties */
+color: var(--unnamed-color-ffffff) !important;
+text-align: center !important;
+font: normal normal bold 24px/40px SWCC !important;
+letter-spacing: 0px !important;
+color: #FFFFFF !important;
+opacity: 1 !important;
+}
+[name="Label_a"]{
+    position: fixed !important;
+    top: 193px !important;
+left: 741px !important;
+width: 12px !important;
+height: 40px !important;
+/* UI Properties */
+color: var(--unnamed-color-f96523) !important;
+text-align: right !important;
+font: normal normal bold 24px/40px SWCC !important;
+letter-spacing: 0px !important;
+color: #F96523 !important;
+opacity: 0.75 !important;
+}
+[name="Label_b"]{
+    position: fixed !important;
+    top: 193px !important;
+left: 527px !important;
+width: 20px !important;
+height: 40px !important;
+/* UI Properties */
+color: var(--unnamed-color-f96523) !important;
+text-align: center !important;
+font: normal normal bold 24px/40px SWCC !important;
+letter-spacing: 0px !important;
+color: #F96523 !important;
+opacity: 0.75 !important;
+}
 
 
 
