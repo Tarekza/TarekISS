@@ -312,6 +312,49 @@ border-radius: 15px !important;
 opacity: 1 !important;
 }
 
+[name="Label_a12"]{
+     position: fixed !important;
+    top: 290px !important;
+left: 1007px !important;
+width: 68px !important;
+height: 27px !important;
+/* UI Properties */
+color: var(--unnamed-color-505050) !important;
+text-align: right !important;
+font: normal normal medium 16px/27px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #505050 !important;
+opacity: 1 !important;
+}
+[name="Label8_098"]{
+     position: fixed !important;
+    top: 339px !important;
+left: 1024px !important;
+width: 51px !important;
+height: 27px !important;
+/* UI Properties */
+color: var(--unnamed-color-505050) !important;
+text-align: right !important;
+font: normal normal medium 16px/27px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #505050 !important;
+opacity: 1 !important;
+}
+[name="Label10_99"]{
+     position: fixed !important;
+    top: 383px !important;
+left: 1024px !important;
+width: 51px !important;
+height: 27px !important;
+/* UI Properties */
+color: var(--unnamed-color-505050) !important;
+text-align: right !important;
+font: normal normal medium 16px/27px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #505050 !important;
+opacity: 1 !important;
+}
+
 
 
 
