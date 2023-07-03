@@ -296,6 +296,20 @@ font: normal normal bold 24px/40px SWCC !important;
 letter-spacing: 0px !important;
 color:  #FFFFFF !important;
 opacity: 0.75 !important;
+} 
+
+[name="Table4_303"]{
+    position: fixed !important;
+top: 272px !important;
+left: 590px !important;
+width: 515px !important;
+height: 166px !important;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box !important;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 15px #0066CC40 !important;
+border-radius: 15px !important;
+opacity: 1 !important;
 }
 
 
