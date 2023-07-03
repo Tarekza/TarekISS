@@ -62,19 +62,7 @@ box-shadow: 0px 0px 15px #0066CC40 !important;
 border-radius: 10px 10px 2px 2px !important;
 opacity: 1 !important;
 }
-[name='Table3']{
-position: fixed !important;
-top: 115px !important;
-left: 976px !important;
-width: 129px !important;
-height: 39px !important;
-color: var(--unnamed-color-004687) !important;
-text-align: right !important;
-font: normal normal bold 23px/39px SWCC !important;
-letter-spacing: 0.46px !important;
-color: #004687 !important;
-opacity: 1 !important;
-}
+
 
 
 
