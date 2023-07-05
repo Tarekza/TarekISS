@@ -36,7 +36,7 @@ opacity: 1 !important;
 }
 
 [name='Picture1']{
-position: fixed !important;
+position: relative !important;
 top: 14px !important;
 left: 1143px !important;
 width: 181px !important;
@@ -47,7 +47,7 @@ opacity: 1 !important;
 }
 
 [name='Picture2']{
-position: fixed !important;
+position: relative !important;
 top: 20px !important;
 left: 260px !important;
 width: 40px !important;
@@ -121,7 +121,7 @@ opacity: 1 !important;
 
 
 [name='Label1_1']{
-position: fixed !important;
+position: relative !important;
 top: 115px !important;
 left: 976px !important;
 width: 129px !important;
@@ -172,7 +172,7 @@ height: 39px !important;
 }
 
 [name="Label2"]{
-position: fixed !important;
+position: relative !important;
 top: 196px !important;
 left: 1032px !important;
 width: 59px !important;
