@@ -1,5 +1,5 @@
 [name='form1']{
-position: absolute !important;
+position: relative !important;
 top: 0px !important;
 left: 0px !important;
 width: 1366px !important;
@@ -10,7 +10,7 @@ background: #EBF3FD 0% 0% no-repeat padding-box !important;
 opacity: 1 !important;
 }
 [name='V1'] {
-position: absolute !important;
+position: relative !important;
 top: 115px !important;
 left: 1140px !important;
 width: 226px !important;
@@ -23,7 +23,7 @@ border-radius: 15px 0px 0px 0px !important;
 opacity: 1 !important;
 }
 [name='V2'] {
-    position: absolute !important;
+    position: relative !important;
 top: 0px !important;
 left: 0px !important;
 width: 1366px !important;
@@ -36,7 +36,7 @@ opacity: 1 !important;
 
 
 [name='Table2']{
-position: absolute !important;
+position: relative !important;
 left:920px !important;
 top: 187px !important;
 width: 185px !important;
@@ -49,7 +49,7 @@ border-radius: 10px 10px 2px 2px !important;
 opacity: 1 !important;
 }
 [name='Table1']{
-position: absolute !important;
+position: relative !important;
 top: 187px !important;
 left: 710px !important;
 width: 185px !important;
@@ -62,7 +62,7 @@ border-radius: 10px 10px 2px 2px !important;
 opacity: 1 !important;
 }
 [name='Table']{
-position: absolute !important;
+position: relative !important;
 left: 500px !important;
 top: 187px !important;
 width: 185px !important;
@@ -75,7 +75,7 @@ border-radius: 10px 10px 2px 2px !important;
 opacity: 1 !important;
 }
 [name='Picture1']{
-position: absolute !important;
+position: relative !important;
 top: 14px !important;
 left: 1143px !important;
 width: 181px !important;
@@ -86,7 +86,7 @@ opacity: 1 !important;
 }
 
 [name='Picture2']{
-position: absolute !important;
+position: relative !important;
 top: 20px !important;
 left: 260px !important;
 width: 40px !important;
@@ -96,7 +96,7 @@ background: transparent url('img/notification_icon.png') 0% 0% no-repeat padding
 opacity: 1 !important;
 }
 [name='Picture']{
-position: absolute !important;
+position: relative !important;
 top: 14px !important;
 left: 147px !important;
 width: 52px !important;
@@ -107,7 +107,7 @@ opacity: 1 !important;
 }
 
 [name='Label']{
-position: absolute !important;
+position: relative !important;
 top: 23px !important;
 left: 40px !important;
 width: 94px !important;
@@ -121,7 +121,7 @@ opacity: 1 !important;
 }
 
 [name='Table-123']{
-position: absolute !important;
+position: relative !important;
 top: 22px !important;
 left: 480px !important;
 width: 625px !important;
@@ -134,7 +134,7 @@ border-radius: 10px !important;
 opacity: 1 !important;
 }
 [name='Label1_1']{
-position: absolute !important;
+position: relative !important;
 top: 115px !important;
 left: 976px !important;
 width: 129px !important;
@@ -148,7 +148,7 @@ color: #004687 !important;
 opacity: 1 !important;
 }
 [name='Label1']{
-position: absolute !important;
+position: relative !important;
 top: 27px !important;
 left: 915px !important;
 width: 170px !important;
@@ -163,7 +163,7 @@ opacity: 1 !important;
 }
 
 [name="Picture3"]{
-position: absolute !important;
+position: relative !important;
 top: 30px !important;
 left: 500px !important;
 width: 20px !important;
@@ -174,7 +174,7 @@ opacity: 1 !important;
 }
 
 [name="Label2"]{
-position: absolute !important;
+position: relative !important;
 top: 196px !important;
 left: 1032px !important;
 width: 59px !important;
@@ -189,7 +189,7 @@ opacity: 1 !important;
 }
 
 [name="Label4"]{
-position: absolute !important;
+position: relative !important;
 top: 196px !important;
 left: 824px !important;
 width: 57px !important;
@@ -204,7 +204,7 @@ opacity: 1 !important;
 }
 
 [name="Label6"]{
-position: absolute !important;
+position: relative !important;
 top: 196px !important;
 left: 600px !important;
 width: 71px !important;
@@ -219,7 +219,7 @@ opacity: 1 !important;
 }
 
 [name="Table6_c"]{
-position: absolute !important;
+position: relative !important;
 top: 196px !important;
 left: 940px !important;
 width: 34px !important;
@@ -231,7 +231,7 @@ background: #F96523 0% 0% no-repeat padding-box !important;
 opacity: 1 !important;
 }
 [name="Table5_b"]{
-position: absolute !important;
+position: relative !important;
 top: 196px !important;
 left: 730px !important;
 width: 34px !important;
@@ -243,7 +243,7 @@ background: #F96523 0% 0% no-repeat padding-box !important;
 opacity: 0.21 !important;
 }
 [name="Table4_a"]{
-position: absolute !important;
+position: relative !important;
 top: 196px !important;
 left: 520px !important;
 width: 34px !important;
@@ -256,7 +256,7 @@ opacity: 0.21 !important;
 }
 
 [name="Label_t"]{
-    position: absolute !important;
+    position: relative !important;
     top: 193px !important;
 left: 951px !important;
 width: 12px !important;
@@ -270,7 +270,7 @@ color: #FFFFFF !important;
 opacity: 1 !important;
 }
 [name="Label_a"]{
-    position: absolute !important;
+    position: relative !important;
     top: 193px !important;
 left: 741px !important;
 width: 12px !important;
@@ -284,7 +284,7 @@ color:  #FFFFFF !important;
 opacity: 0.75 !important;
 }
 [name="Label_b"]{
-    position: absolute !important;
+    position: relative !important;
     top: 193px !important;
 left: 527px !important;
 width: 20px !important;
@@ -299,7 +299,7 @@ opacity: 0.75 !important;
 } 
 
 [name="Table4_303"]{
-    position: absolute !important;
+    position: relative !important;
 top: 272px !important;
 left: 590px !important;
 width: 515px !important;
@@ -313,7 +313,7 @@ opacity: 1 !important;
 }
 
 [name="Label_a12"]{
-     position: absolute !important;
+     position: relative !important;
     top: 290px !important;
 left: 1007px !important;
 width: 68px !important;
@@ -327,7 +327,7 @@ color: #505050 !important;
 opacity: 1 !important;
 }
 [name="Label8_098"]{
-     position: absolute !important;
+     position: relative !important;
     top: 339px !important;
 left: 1024px !important;
 width: 51px !important;
@@ -341,7 +341,7 @@ color: #505050 !important;
 opacity: 1 !important;
 }
 [name="Label10_99"]{
-     position: absolute !important;
+     position: relative !important;
     top: 383px !important;
 left: 1024px !important;
 width: 51px !important;
@@ -356,7 +356,7 @@ opacity: 1 !important;
 }
 
 [name="Label1_123"]{
-    position: absolute !important;
+    position: relative !important;
     top: 285px !important;
 left: 850px !important;
 width: 70px !important;
@@ -370,7 +370,7 @@ color: #004687 !important;
 opacity: 1 !important;
 }
 [name="Label7_98"]{
-    position: absolute !important;
+    position: relative !important;
     top: 339px !important;
 left: 848px !important;
 width: 140px !important;
@@ -384,7 +384,7 @@ color: #004687 !important;
 opacity: 1 !important;
 }
 [name="Label9_43"]{
-    position: absolute !important;
+    position: relative !important;
     top: 383px !important;
 left: 980px !important;
 width: 8px !important;
@@ -399,7 +399,7 @@ opacity: 1 !important;
 }
 
 [name="Label3_19"]{
-    position: absolute !important;
+    position: relative !important;
     top: 289px !important;
 left: 620px !important;
 width: 96px !important;
@@ -413,7 +413,7 @@ color: #0066CC !important;
 opacity: 1 !important;
 }
 [name="Label5_09"]{
-    position: absolute !important;
+    position: relative !important;
     top: 384px !important;
 left: 635px !important;
 width: 82px !important;
@@ -427,7 +427,7 @@ color: #0066CC !important;
 opacity: 1 !important;
 }
 [name="Picture3_0"]{
-    position: absolute !important;
+    position: relative !important;
     top: 291px !important;
 left: 722px !important;
 width: 30px !important;
@@ -437,7 +437,7 @@ background: transparent url('img/calendar_icon.png') 0% 0% no-repeat padding-box
 opacity: 1 !important;
 }
 [name="Picture1_96"]{
-    position: absolute !important;
+    position: relative !important;
     top: 388px !important;
 left: 724px !important;
 width: 13px !important;
@@ -448,7 +448,7 @@ opacity: 1 !important;
 }
 
 [name="Table5_001"]{
-    position: absolute !important;
+    position: relative !important;
     top: 382px !important;
 left: 620px !important;
 width: 132px !important;
