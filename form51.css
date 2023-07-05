@@ -67,7 +67,7 @@ background: transparent url('img/User_photo.png') 0% 0% no-repeat padding-box !i
 opacity: 1 !important;
 }
 [name="Picture3"]{
-position: absolute !important;
+position: fixed !important;
 top: 30px !important;
 left: 500px !important;
 width: 20px !important;
@@ -78,7 +78,7 @@ opacity: 1 !important;
 } 
 
 [name='Label_999']{
-position: relative !important;
+position: fixed !important;
 top: 23px !important;
 left: 40px !important;
 width: 94px !important;
