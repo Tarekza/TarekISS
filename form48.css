@@ -35,7 +35,7 @@ opacity: 1 !important;
 }
 
 [name='Picture1']{
-position: absolute !important;
+position: fixed !important;
 top: 14px !important;
 left: 1143px !important;
 width: 181px !important;
@@ -46,7 +46,7 @@ opacity: 1 !important;
 }
 
 [name='Picture2']{
-position: absolute !important;
+position: fixed !important;
 top: 20px !important;
 left: 260px !important;
 width: 40px !important;
@@ -56,7 +56,7 @@ background: transparent url('img/notification_icon.png') 0% 0% no-repeat padding
 opacity: 1 !important;
 }
 [name='Picture']{
-position: absolute !important;
+position: fixed !important;
 top: 14px !important;
 left: 147px !important;
 width: 52px !important;
