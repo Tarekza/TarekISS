@@ -9,6 +9,7 @@ background: var(--unnamed-color-ebf3fd) 0% 0% no-repeat padding-box !important;
 background: #EBF3FD 0% 0% no-repeat padding-box !important;
 opacity: 1 !important;
 }
+
 [name='V1'] {
 position: fixed !important;
 top: 115px !important;
@@ -63,6 +64,44 @@ width: 52px !important;
 height: 52px !important;
 /* UI Properties */
 background: transparent url('img/User_photo.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
+[name="Picture3"]{
+position: absolute !important;
+top: 30px !important;
+left: 500px !important;
+width: 20px !important;
+height: 20px !important;
+/* UI Properties */
+background: transparent url('img/search_icon.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+} 
+
+[name='Label_999']{
+position: relative !important;
+top: 23px !important;
+left: 40px !important;
+width: 94px !important;
+height: 34px !important;
+color: var(--unnamed-color-0066cc) !important;
+text-align: right !important;
+font: normal normal bold 20px/34px SWCC !important;
+letter-spacing: 0.4px !important;
+color: #0066CC !important;
+opacity: 1 !important;
+}
+
+[name='Table-123']{
+position: fixed !important;
+top: 22px !important;
+left: 480px !important;
+width: 625px !important;
+height: 37px !important;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box !important;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 10px #0066CC40 !important;
+border-radius: 10px !important;
 opacity: 1 !important;
 }
 
