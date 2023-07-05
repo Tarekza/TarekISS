@@ -162,6 +162,21 @@ box-shadow: 0px 0px 15px #0066CC40 !important;
 border-radius: 10px 10px 2px 2px !important;
 opacity: 1 !important;
 }
+
+[name="Label2"]{
+position: absolute !important;
+top: 196px !important;
+left: 1032px !important;
+width: 59px !important;
+height: 34px !important;
+/* UI Properties */
+color: var(--unnamed-color-f96523) !important;
+text-align: right !important;
+font: normal normal bold 20px/34px SWCC !important;
+letter-spacing: 0.4px !important;
+color: #F96523 !important;
+opacity: 1 !important;
+}
 [name='Table1']{
 position: fixed !important;
 top: 187px !important;
