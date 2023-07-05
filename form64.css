@@ -214,8 +214,8 @@ opacity: 1 !important;
 
 
 [name="Label7_98"]{
-    position: fixed !important;
-    top: 339px !important;
+position: fixed !important;
+top: 339px !important;
 left: 848px !important;
 width: 140px !important;
 height: 27px !important;
@@ -228,8 +228,8 @@ color: #004687 !important;
 opacity: 1 !important;
 }
 [name="Label9_43"]{
-    position: fixed !important;
-    top: 383px !important;
+position: fixed !important;
+top: 383px !important;
 left: 980px !important;
 width: 8px !important;
 height: 27px !important;
@@ -243,8 +243,8 @@ opacity: 1 !important;
 }
 
 [name="Label3_19"]{
-    position: fixed !important;
-    top: 289px !important;
+position: fixed !important;
+top: 289px !important;
 left: 620px !important;
 width: 96px !important;
 height: 34px !important;
@@ -257,8 +257,8 @@ color: #0066CC !important;
 opacity: 1 !important;
 }
 [name="Label5_09"]{
-    position: fixed !important;
-    top: 384px !important;
+position: fixed !important;
+top: 384px !important;
 left: 635px !important;
 width: 82px !important;
 height: 27px !important;
@@ -271,8 +271,8 @@ color: #0066CC !important;
 opacity: 1 !important;
 }
 [name="Picture3_0"]{
-    position: fixed !important;
-    top: 291px !important;
+position: fixed !important;
+top: 291px !important;
 left: 722px !important;
 width: 30px !important;
 height: 30px !important;
@@ -281,8 +281,8 @@ background: transparent url('img/calendar_icon.png') 0% 0% no-repeat padding-box
 opacity: 1 !important;
 }
 [name="Picture1_96"]{
-    position: fixed !important;
-    top: 388px !important;
+position: fixed !important;
+top: 388px !important;
 left: 724px !important;
 width: 13px !important;
 height: 17px !important;
@@ -292,8 +292,8 @@ opacity: 1 !important;
 }
 
 [name="Table5_001"]{
-    position: fixed !important;
-    top: 382px !important;
+position: fixed !important;
+top: 382px !important;
 left: 620px !important;
 width: 132px !important;
 height: 30px !important;
@@ -353,7 +353,7 @@ top: 196px !important;
 left: 730px !important;
 width: 34px !important;
 height: 34px !important;
-    border-radius: 50% !important;
+border-radius: 50% !important;
 /* UI Properties */
 background: var(--unnamed-color-f96523) 0% 0% no-repeat padding-box !important;
 background: #F96523 0% 0% no-repeat padding-box !important;
@@ -373,8 +373,8 @@ opacity: 0.21 !important;
 }
 
 [name="Label_t"]{
-    position: fixed !important;
-    top: 193px !important;
+position: fixed !important;
+top: 193px !important;
 left: 951px !important;
 width: 12px !important;
 height: 40px !important;
@@ -387,8 +387,8 @@ color: #FFFFFF !important;
 opacity: 1 !important;
 }
 [name="Label_a"]{
-    position: fixed !important;
-    top: 193px !important;
+position: fixed !important;
+top: 193px !important;
 left: 741px !important;
 width: 12px !important;
 height: 40px !important;
@@ -401,8 +401,8 @@ color:  #FFFFFF !important;
 opacity: 0.75 !important;
 }
 [name="Label_b"]{
-    position: fixed !important;
-    top: 193px !important;
+position: fixed !important;
+top: 193px !important;
 left: 527px !important;
 width: 20px !important;
 height: 40px !important;
@@ -416,7 +416,7 @@ opacity: 0.75 !important;
 } 
 
 [name="Table4_303"]{
-    position: fixed !important;
+position: fixed !important;
 top: 272px !important;
 left: 590px !important;
 width: 515px !important;
@@ -430,8 +430,8 @@ opacity: 1 !important;
 }
 
 [name="Label_a12"]{
-     position: fixed !important;
-    top: 290px !important;
+position: fixed !important;
+top: 290px !important;
 left: 1007px !important;
 width: 68px !important;
 height: 27px !important;
@@ -444,8 +444,8 @@ color: #505050 !important;
 opacity: 1 !important;
 }
 [name="Label8_098"]{
-     position: fixed !important;
-    top: 339px !important;
+position: fixed !important;
+top: 339px !important;
 left: 1024px !important;
 width: 51px !important;
 height: 27px !important;
@@ -458,8 +458,8 @@ color: #505050 !important;
 opacity: 1 !important;
 }
 [name="Label10_99"]{
-     position: fixed !important;
-    top: 383px !important;
+position: fixed !important;
+top: 383px !important;
 left: 1024px !important;
 width: 51px !important;
 height: 27px !important;
@@ -473,8 +473,8 @@ opacity: 1 !important;
 }
 
 [name="Label1_123"]{
-    position: fixed !important;
-    top: 285px !important;
+position: fixed !important;
+top: 285px !important;
 left: 850px !important;
 width: 70px !important;
 height: 40px !important;
