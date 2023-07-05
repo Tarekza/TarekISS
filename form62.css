@@ -213,7 +213,97 @@ opacity: 1 !important;
 }
 
 
+[name="Label7_98"]{
+    position: fixed !important;
+    top: 339px !important;
+left: 848px !important;
+width: 140px !important;
+height: 27px !important;
+/* UI Properties */
+color: var(--unnamed-color-004687) !important;
+text-align: right !important;
+font: normal normal bold 16px/27px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #004687 !important;
+opacity: 1 !important;
+}
+[name="Label9_43"]{
+    position: fixed !important;
+    top: 383px !important;
+left: 980px !important;
+width: 8px !important;
+height: 27px !important;
+/* UI Properties */
+color: var(--unnamed-color-004687) !important;
+text-align: right !important;
+font: normal normal bold 16px/27px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #004687 !important;
+opacity: 1 !important;
+}
 
+[name="Label3_19"]{
+    position: fixed !important;
+    top: 289px !important;
+left: 620px !important;
+width: 96px !important;
+height: 34px !important;
+/* UI Properties */
+color: var(--unnamed-color-0066cc) !important;
+text-align: left !important;
+font: normal normal bold 20px/34px SWCC !important;
+letter-spacing: 0.4px !important;
+color: #0066CC !important;
+opacity: 1 !important;
+}
+[name="Label5_09"]{
+    position: fixed !important;
+    top: 384px !important;
+left: 635px !important;
+width: 82px !important;
+height: 27px !important;
+/* UI Properties */
+color: var(--unnamed-color-0066cc) !important;
+text-align: center !important;
+font: normal normal medium 16px/27px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #0066CC !important;
+opacity: 1 !important;
+}
+[name="Picture3_0"]{
+    position: fixed !important;
+    top: 291px !important;
+left: 722px !important;
+width: 30px !important;
+height: 30px !important;
+/* UI Properties */
+background: transparent url('img/calendar_icon.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
+[name="Picture1_96"]{
+    position: fixed !important;
+    top: 388px !important;
+left: 724px !important;
+width: 13px !important;
+height: 17px !important;
+/* UI Properties */
+background: transparent url('img/detail_icon.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
+
+[name="Table5_001"]{
+    position: fixed !important;
+    top: 382px !important;
+left: 620px !important;
+width: 132px !important;
+height: 30px !important;
+/* UI Properties */
+background: var(--unnamed-color-85e2ff) 0% 0% no-repeat padding-box !important;
+background: #85E2FF 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 10px #9AE0FC !important;
+border-radius: 30px !important;
+opacity: 1 !important;
+}
 
 
 .panel-header {
