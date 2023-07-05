@@ -36,7 +36,7 @@ opacity: 1 !important;
 }
 
 [name='Picture1']{
-position: relative !important;
+
 top: 14px !important;
 left: 1143px !important;
 width: 181px !important;
@@ -47,7 +47,7 @@ opacity: 1 !important;
 }
 
 [name='Picture2']{
-position: relative !important;
+
 top: 20px !important;
 left: 260px !important;
 width: 40px !important;
@@ -57,7 +57,7 @@ background: transparent url('img/notification_icon.png') 0% 0% no-repeat padding
 opacity: 1 !important;
 }
 [name='Picture']{
-position: fixed !important;
+
 top: 14px !important;
 left: 147px !important;
 width: 52px !important;
@@ -67,7 +67,7 @@ background: transparent url('img/User_photo.png') 0% 0% no-repeat padding-box !i
 opacity: 1 !important;
 }
 [name="Picture3"]{
-position: fixed !important;
+
 top: 30px !important;
 left: 500px !important;
 width: 20px !important;
@@ -121,7 +121,7 @@ opacity: 1 !important;
 
 
 [name='Label1_1']{
-position: relative !important;
+
 top: 115px !important;
 left: 976px !important;
 width: 129px !important;
@@ -172,7 +172,7 @@ height: 39px !important;
 }
 
 [name="Label2"]{
-position: relative !important;
+
 top: 196px !important;
 left: 1032px !important;
 width: 59px !important;
