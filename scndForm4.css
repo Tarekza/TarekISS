@@ -176,6 +176,7 @@ opacity: 1 !important;
 }
 
 [name='Label22']{
+   position: fixed !important;
 top: 115px !important;
 left: 817px !important;
 width: 134px !important;
