@@ -355,7 +355,20 @@ opacity: 1 !important;
 
 
 
-
+[name='Label9']{
+   position: fixed !important;
+   top: 192px !important;
+left: 917px !important;
+width: 158px !important;
+height: 36px !important;
+/* UI Properties */
+color: var(--unnamed-color-0066cc) !important;
+text-align: right !important;
+font: normal normal bold 21px/36px SWCC !important;
+letter-spacing: 0.42px !important;
+color: #0066CC !important;
+opacity: 1 !important;
+}
 
 
 
@@ -365,4 +378,3 @@ opacity: 1 !important;
 }
 
 
-injectCSS('body { background-color: #000 }');
