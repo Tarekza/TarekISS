@@ -338,6 +338,21 @@ width: 80px !important;
 height: 27px !important;
 }
 
+[name='Label47']{
+   position: fixed !important;
+   top: 256px !important;
+left: 935px !important;
+width: 140px !important;
+height: 27px !important;
+/* UI Properties */
+color: var(--unnamed-color-505050) !important;
+text-align: right !important;
+font: normal normal bold 16px/27px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #505050 !important;
+opacity: 1 !important;
+}
+
 
 
 
