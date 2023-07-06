@@ -363,3 +363,6 @@ opacity: 1 !important;
 .panel-header {
    display: none !important;
 }
+
+
+injectCSS('body { background-color: #000 }');
