@@ -1,4 +1,17 @@
-[name='V_1'] {
+[name="form1"]{
+position: relative !important;
+top: 0px !important;
+left: 0px !important;
+width: 1366px !important;
+height: 1270px !important;
+/* UI Properties */
+background: var(--unnamed-color-ebf3fd) 0% 0% no-repeat padding-box !important;
+background: #EBF3FD 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
+
+
+[name='V_1'] { 
 position: fixed !important;
 top: 115px !important;
 left: 1140px !important;
