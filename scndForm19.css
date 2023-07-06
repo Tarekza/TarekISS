@@ -240,6 +240,51 @@ height: 223px !important;
    
 }
 
+[name='Label49']{
+position: fixed !important;
+top: 328px !important;
+left: 620px !important;
+width: 455px !important;
+height: 114px !important;
+/* UI Properties */
+color: var(--unnamed-color-505050) !important;
+text-align: right !important;
+font: normal normal bold 16px/27px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #505050 !important;
+opacity: 1 !important;
+}
+
+[name='Label45']{
+position: fixed !important;
+top: 1000px !important;
+left: 620px !important;
+width: 455px !important;
+height: 114px !important;
+/* UI Properties */
+color: var(--unnamed-color-505050) !important;
+text-align: right !important;
+font: normal normal bold 16px/27px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #505050 !important;
+opacity: 1 !important;
+}
+
+[name='Label39']{
+position: fixed !important;
+top: 1000px !important;
+left: 70px !important;
+width: 455px !important;
+height: 114px !important;
+/* UI Properties */
+color: var(--unnamed-color-505050) !important;
+text-align: right !important;
+font: normal normal bold 16px/27px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #505050 !important;
+opacity: 1 !important;
+}
+
 
 
 
