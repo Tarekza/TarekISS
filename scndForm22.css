@@ -329,7 +329,14 @@ letter-spacing: 0.32px !important;
 color: #8E8E8E !important;
 opacity: 1 !important;
 }
-   
+
+[name='Table1_1234']{
+position: fixed !important;
+top: 301px !important;
+left: 998px !important;
+width: 80px !important;
+height: 27px !important;
+}
 
 
 
