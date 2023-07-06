@@ -224,16 +224,17 @@ opacity: 1 !important;
 
 
 [name='Table25']{
-    position: fixed !important;
-   top: 923px !important;
-right: 261px !important;
+position: fixed !important;
+top: 908px !important;
+left: 40px !important;
 width: 532px !important;
 height: 223px !important;
 }
+
 [name='Table26']{
-      position: fixed !important;
-   top: 923px !important;
-left: px !important;
+position: fixed !important;
+top: 908px !important;
+right:261px !important;
 width: 532px !important;
 height: 223px !important;
    
