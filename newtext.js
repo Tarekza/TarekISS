@@ -1,3 +1,3 @@
 const para = document.createElement("p");
-const node = document.createTextNode("This is new.");
+const node = document.createTextNode("/طلبات التحقيق ");
 para.appendChild(node);
