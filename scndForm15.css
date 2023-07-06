@@ -198,7 +198,46 @@ width: 367px !important;
 height: 39px !important;
 }
 
+[name='Table16']{
+   position: fixed !important;
+   top: 579px !important;
+left: 625px !important;
+width: 405px !important;
+height: 207px !important;
+/* UI Properties */
+border: 1px solid #BEBEBE !important;
+border-radius: 15px !important;
+opacity: 1 !important;
+}
 
+[name='Table17']{
+   position: fixed !important;
+   top: 579px !important;
+left: 115px !important;
+width: 405px !important;
+height: 207px !important;
+/* UI Properties */
+border: 1px solid #BEBEBE !important;
+border-radius: 15px !important;
+opacity: 1 !important;
+}
+
+
+[name='Table25']{
+    position: fixed !important;
+   top: 923px !important;
+right: 261px !important;
+width: 532px !important;
+height: 223px !important;
+}
+[name='Table26']{
+      position: fixed !important;
+   top: 923px !important;
+left: px !important;
+width: 532px !important;
+height: 223px !important;
+   
+}
 
 
 
