@@ -369,6 +369,52 @@ letter-spacing: 0.42px !important;
 color: #0066CC !important;
 opacity: 1 !important;
 }
+[name='Label11']{
+    position: fixed !important;
+   top: 192px !important;
+left: 453px !important;
+width: 72px !important;
+height: 36px !important;
+   color: var(--unnamed-color-0066cc) !important;
+text-align: right !important;
+font: normal normal bold 21px/36px SWCC !important;
+letter-spacing: 0.42px !important;
+color: #0066CC !important;
+opacity: 1 !important;
+}
+
+
+[name='Label1_09']{
+    position: fixed !important;
+   top: 503px !important;
+left: 956px !important;
+width: 119px !important;
+height: 36px !important;
+   color: var(--unnamed-color-0066cc) !important;
+text-align: right !important;
+font: normal normal bold 21px/36px SWCC !important;
+letter-spacing: 0.42px !important;
+color: #0066CC !important;
+opacity: 1 !important;
+}
+
+
+[name='Label34']{
+    position: fixed !important;
+   top: 859px !important;
+left: 903px !important;
+width: 172px !important;
+height: 36px !important;
+   color: var(--unnamed-color-0066cc) !important;
+text-align: right !important;
+font: normal normal bold 21px/36px SWCC !important;
+letter-spacing: 0.42px !important;
+color: #0066CC !important;
+opacity: 1 !important;
+}
+
+
+        
 
 
 
