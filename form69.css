@@ -121,7 +121,7 @@ opacity: 1 !important;
 
 
 [name='Label1_1']{
-position: relative !important;
+position: fixed !important;
 top: 115px !important;
 left: 976px !important;
 width: 129px !important;
@@ -164,7 +164,7 @@ opacity: 1 !important;
 }
 
 [name="Table3"]{
-position: relative !important;
+position: fixed !important;
 top: 115px !important;
 left: 976px !important;
 width: 129px !important;
