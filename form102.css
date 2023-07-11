@@ -64,16 +64,16 @@ color: #A7CFFF !important;
 
 [name='Label7_11']{
    position: relative !important;
-   top: 67px !important;
-left: 52px !important;
-width: 103px !important;
-height: 25px !important;
+   top: 473px !important;
+left: 40px !important;
+width: 515px !important;
+height: 166px !important;
 /* UI Properties */
-color: var(--unnamed-color-a7cfff) !important;
-text-align: right !important;
-font: normal normal medium 15px/33px SWCC !important;
-letter-spacing: 0.3px !important;
-color: #A7CFFF !important;
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box !important;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 15px #0066CC40 !important;
+border-radius: 15px !important;
+opacity: 1 !important;
 }
 
 [name='Label8_11']{
