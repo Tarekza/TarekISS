@@ -24,7 +24,7 @@ border-radius: 15px 0px 0px 0px !important;
 opacity: 1 !important;
 }
 [name='V2'] {
-position: relative !important;
+position: absolute !important;
 top: 0px !important;
 left: 0px !important;
 width: 1366px !important;
