@@ -94,3 +94,7 @@ letter-spacing: 0.4px !important;
 color: #0066CC !important;
 opacity: 1 !important;
 }
+
+.panel-header {
+   display: none !important;
+}
