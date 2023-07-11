@@ -127,20 +127,26 @@ color: #A7CFFF !important;
 left: 1323px !important;
 width: 28px !important;
 height: 28px !important;
+background: transparent url('img/menu_investigations_icon_selected.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
 }
-[name='Picture4_a']{
-    position: absolute !important;
-   top: 301px !important;
+[name='Picture5_b']{
+position: absolute !important;
+top: 301px !important;
 left: 1323px !important;
 width: 28px !important;
 height: 28px !important;
+  background: transparent url('img/menu_legal_icon.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
 }
-[name='Picture4_a']{
-    position: absolute !important;
+[name='Picture6_c']{
+position: absolute !important;
 top: 367px !important;
 left: 1323px !important;
 width: 28px !important;
 height: 28px !important;
+background: transparent url('img/menu_government_icon.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
    
 }
 
