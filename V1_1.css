@@ -137,3 +137,7 @@ background: transparent url('img/menu_government_icon.png') 0% 0% no-repeat padd
 opacity: 1 !important;
    
 }
+
+.panel-header {
+   display: none !important;
+}
