@@ -119,6 +119,7 @@ color: #A7CFFF !important;
 }
 
 [name='Picture4_a']{
+   position: fixed !important;
    top: 137px !important;
 left: 1323px !important;
 width: 28px !important;
@@ -127,6 +128,8 @@ background: transparent url('img/menu_investigations_icon_selected.png') 0% 0% n
 opacity: 1 !important;
 }
 [name='Picture5_b']{
+   position: fixed !important;
+
 top: 301px !important;
 left: 1323px !important;
 width: 28px !important;
@@ -135,6 +138,8 @@ height: 28px !important;
 opacity: 1 !important;
 }
 [name='Picture6_c']{
+   position: fixed !important;
+
 top: 367px !important;
 left: 1323px !important;
 width: 28px !important;
@@ -163,9 +168,13 @@ top: 0px !important;
 left: 0px !important;
 width: 1366px !important;
 height: 80px !important;
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box !important;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
 }
 
 [name='Picture1']{
+position: fixed !important;
 
 top: 14px !important;
 left: 1143px !important;
@@ -177,6 +186,7 @@ opacity: 1 !important;
 }
 
 [name='Picture2']{
+position: fixed !important;
 
 top: 20px !important;
 left: 260px !important;
@@ -187,6 +197,8 @@ background: transparent url('img/notification_icon.png') 0% 0% no-repeat padding
 opacity: 1 !important;
 }
 [name='Picture']{
+   position: fixed !important;
+
 top: 14px !important;
 left: 147px !important;
 width: 52px !important;
@@ -196,6 +208,8 @@ background: transparent url('img/User_photo.png') 0% 0% no-repeat padding-box !i
 opacity: 1 !important;
 }
 [name="Picture3"]{
+   position: fixed !important;
+
 top: 30px !important;
 left: 500px !important;
 width: 20px !important;
@@ -399,7 +413,7 @@ color: #0066CC !important;
 opacity: 1 !important;
 }
 [name="Picture3_0"]{
-position: absolute !important;
+position: fixed !important;
 top: 291px !important;
 left: 722px !important;
 width: 30px !important;
@@ -409,7 +423,7 @@ background: transparent url('img/calendar_icon.png') 0% 0% no-repeat padding-box
 opacity: 1 !important;
 }
 [name="Picture1_96"]{
-position: absolute !important;
+position: fixed !important;
 top: 388px !important;
 left: 724px !important;
 width: 13px !important;
