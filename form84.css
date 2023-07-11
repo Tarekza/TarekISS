@@ -165,7 +165,7 @@ opacity: 1 !important;
 }
 
 [name="Table3"]{
-position: absolute !important;
+position: relative !important;
 top: 115px !important;
 left: 976px !important;
 width: 129px !important;
