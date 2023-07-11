@@ -1,5 +1,5 @@
 [name="form1"]{
-
+position: relative !important;
 top: 0px !important;
 left: 0px !important;
 height: 1270px !important;
@@ -179,7 +179,7 @@ opacity: 1 !important;
 }
 
 [name='Label9']{
-position: absolute !important;
+position: relative !important;
 top: 192px !important;
 left: 917px !important;
 width: 158px !important;
