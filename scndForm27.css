@@ -413,8 +413,14 @@ color: #0066CC !important;
 opacity: 1 !important;
 }
 
+[name='Cell53']{
+position: fixed !important;
+top: 192px !important;
+left: 917px !important;
+width: 158px !important;
+height: 36px !important;
+}
 
-        
 
 
 
