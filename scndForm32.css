@@ -38,7 +38,7 @@ opacity: 1 !important;
 }
 
 [name='Label5_11']{
-   position: fixed !important;
+   position: absolute !important;
    top: 0px !important;
 left: 2px !important;
 width: 153px !important;
@@ -52,7 +52,7 @@ color: #FFFFFF !important;
 }
 
 [name='Label6_11']{
-   position: fixed !important;
+   position: absolute !important;
    top: 34px !important;
 left: 54px !important;
 width: 101px !important;
@@ -66,7 +66,7 @@ color: #A7CFFF !important;
 }
 
 [name='Label7_11']{
-   position: fixed !important;
+   position: absolute !important;
    top: 67px !important;
 left: 52px !important;
 width: 103px !important;
@@ -80,7 +80,7 @@ color: #A7CFFF !important;
 }
 
 [name='Label8_11']{
-   position: fixed !important;
+   position: absolute !important;
    top: 100px !important;
 left: 86px !important;
 width: 69px !important;
@@ -94,7 +94,7 @@ color: #FFFFFF !important;
 }
 
 [name='Label9_11']{
-   position: fixed !important;
+   position: absolute !important;
    top: 165px !important;
 left: 53px !important;
 width: 102px !important;
@@ -108,7 +108,7 @@ color: #A7CFFF !important;
 }
 
 [name='Label10_11']{
-   position: fixed !important;
+   position: absolute !important;
    top: 231px !important;
 left: 100px !important;
 width: 55px !important;
