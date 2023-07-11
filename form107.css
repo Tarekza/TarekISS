@@ -247,7 +247,7 @@ opacity: 1 !important;
 
 
 [name='Label1_1']{
-position: absolute !important;
+position: relative !important;
 top: 115px !important;
 left: 976px !important;
 width: 129px !important;
