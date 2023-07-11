@@ -275,7 +275,7 @@ opacity: 1 !important;
 }
 
 [name='Table2']{
-position: relative !important;
+position: absolute !important;
 left:920px !important;
 top: 187px !important;
 width: 185px !important;
@@ -311,7 +311,7 @@ color: #F96523 !important;
 opacity: 1 !important;
 }
 [name='Table1']{
-position: relative !important;
+position: absolute !important;
 top: 187px !important;
 left: 710px !important;
 width: 185px !important;
@@ -324,7 +324,7 @@ border-radius: 10px 10px 2px 2px !important;
 opacity: 1 !important;
 }
 [name='Table_009']{
-position: relative !important;
+position: absolute !important;
 left: 500px !important;
 top: 187px !important;
 width: 185px !important;
@@ -541,7 +541,7 @@ opacity: 0.75 !important;
 } 
 
 [name="Table4_303"]{
-position: relative !important;
+position: absolute !important;
 top: 272px !important;
 left: 590px !important;
 width: 515px !important;
@@ -613,7 +613,7 @@ opacity: 1 !important;
 }
 
 [name="Table7_11"]{
-   position: relative !important;
+   position: absolute !important;
    top: 473px !important;
 left: 40px !important;
 width: 515px !important;
@@ -627,7 +627,7 @@ opacity: 1 !important;
 }
 
 [name="Table6_1"]{
-   position: relative !important;
+   position: absolute !important;
    top: 272px !important;
 left: 40px !important;
 width: 515px !important;
@@ -641,7 +641,7 @@ opacity: 1 !important;
 }
 
 [name="Table5_12"]{
-   position: relative !important;
+   position: absolute !important;
    top: 473px !important;
 left: 590px !important;
 width: 515px !important;
