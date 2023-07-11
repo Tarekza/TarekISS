@@ -9,3 +9,8 @@ background: var(--unnamed-color-ebf3fd) 0% 0% no-repeat padding-box !important;
 background: #EBF3FD 0% 0% no-repeat padding-box !important;
 opacity: 1 !important;
 }
+
+
+.panel-header {
+   display: none !important;
+}
