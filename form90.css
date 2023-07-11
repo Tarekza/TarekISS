@@ -10,7 +10,7 @@ background: #EBF3FD 0% 0% no-repeat padding-box !important;
 opacity: 1 !important;
 }
 [name='V1'] { 
-position: relative !important;
+position: absolute !important;
 top: 115px !important;
 left: 1140px !important;
 width: 226px !important;
