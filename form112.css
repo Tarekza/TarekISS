@@ -119,7 +119,6 @@ color: #A7CFFF !important;
 }
 
 [name='Picture4_a']{
-    position: absolute !important;
    top: 137px !important;
 left: 1323px !important;
 width: 28px !important;
@@ -128,7 +127,6 @@ background: transparent url('img/menu_investigations_icon_selected.png') 0% 0% n
 opacity: 1 !important;
 }
 [name='Picture5_b']{
-position: absolute !important;
 top: 301px !important;
 left: 1323px !important;
 width: 28px !important;
@@ -137,7 +135,6 @@ height: 28px !important;
 opacity: 1 !important;
 }
 [name='Picture6_c']{
-position: absolute !important;
 top: 367px !important;
 left: 1323px !important;
 width: 28px !important;
@@ -418,7 +415,7 @@ opacity: 1 !important;
 }
 
 [name="Table5_001"]{
-position: relative !important;
+position: absolute !important;
 top: 382px !important;
 left: 620px !important;
 width: 132px !important;
@@ -462,7 +459,7 @@ opacity: 1 !important;
 }
 
 [name="Table6_c"]{
-position: relative !important;
+position: absolute !important;
 top: 196px !important;
 left: 940px !important;
 width: 34px !important;
@@ -474,7 +471,7 @@ background: #F96523 0% 0% no-repeat padding-box !important;
 opacity: 1 !important;
 }
 [name="Table5_b"]{
-position: relative !important;
+position: absolute !important;
 top: 196px !important;
 left: 730px !important;
 width: 34px !important;
@@ -486,7 +483,7 @@ background: #F96523 0% 0% no-repeat padding-box !important;
 opacity: 0.21 !important;
 }
 [name="Table4_a"]{
-position: relative !important;
+position: absolute !important;
 top: 196px !important;
 left: 520px !important;
 width: 34px !important;
