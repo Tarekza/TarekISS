@@ -1,5 +1,5 @@
 [name='form1']{
-position: absolute !important;
+position: fixed !important;
 top: 0px !important;
 left: 0px !important;
 width: 1366px !important;
@@ -10,11 +10,11 @@ background: #EBF3FD 0% 0% no-repeat padding-box !important;
 opacity: 1 !important;
 }
 [name='V1'] { 
-position: absolute !important;
+position: relative !important;
 top: 115px !important;
 left: 1140px !important;
 width: 226px !important;
-height: 1155px !important;
+height: 653px !important;
 /* UI Properties */
 background: var(--unnamed-color-0066cc) 0% 0% no-repeat padding-box !important;
 background: #0066CC 0% 0% no-repeat padding-box !important;
@@ -149,7 +149,7 @@ opacity: 1 !important;
 
 
 [name='V2'] {
-position: absolute !important;
+position: relative !important;
 top: 0px !important;
 left: 0px !important;
 width: 1366px !important;
@@ -231,7 +231,7 @@ opacity: 1 !important;
 }
 
 [name='Table-123']{
-position: absolute !important;
+position: relative !important;
 top: 22px !important;
 left: 480px !important;
 width: 625px !important;
@@ -261,7 +261,7 @@ opacity: 1 !important;
 }
 
 [name="Table4_303"]{
-position: absolute !important;
+position: reltaive !important;
 top: 272px !important;
 left: 590px !important;
 width: 515px !important;
@@ -275,7 +275,7 @@ opacity: 1 !important;
 }
 
 [name='Table2']{
-position: absolute !important;
+position: relative !important;
 left:920px !important;
 top: 187px !important;
 width: 185px !important;
@@ -289,7 +289,7 @@ opacity: 1 !important;
 }
 
 [name="Table3"]{
-position: absolute !important;
+position: relative !important;
 top: 115px !important;
 left: 976px !important;
 width: 129px !important;
@@ -311,7 +311,7 @@ color: #F96523 !important;
 opacity: 1 !important;
 }
 [name='Table1']{
-position: absolute !important;
+position: relative !important;
 top: 187px !important;
 left: 710px !important;
 width: 185px !important;
@@ -324,7 +324,7 @@ border-radius: 10px 10px 2px 2px !important;
 opacity: 1 !important;
 }
 [name='Table_009']{
-position: absolute !important;
+position: relative !important;
 left: 500px !important;
 top: 187px !important;
 width: 185px !important;
@@ -417,7 +417,7 @@ opacity: 1 !important;
 }
 
 [name="Table5_001"]{
-position: absolute !important;
+position: relative !important;
 top: 382px !important;
 left: 620px !important;
 width: 132px !important;
@@ -461,7 +461,7 @@ opacity: 1 !important;
 }
 
 [name="Table6_c"]{
-position: absolute !important;
+position: relative !important;
 top: 196px !important;
 left: 940px !important;
 width: 34px !important;
@@ -473,7 +473,7 @@ background: #F96523 0% 0% no-repeat padding-box !important;
 opacity: 1 !important;
 }
 [name="Table5_b"]{
-position: absolute !important;
+position: relative !important;
 top: 196px !important;
 left: 730px !important;
 width: 34px !important;
@@ -485,7 +485,7 @@ background: #F96523 0% 0% no-repeat padding-box !important;
 opacity: 0.21 !important;
 }
 [name="Table4_a"]{
-position: absolute !important;
+position: relative !important;
 top: 196px !important;
 left: 520px !important;
 width: 34px !important;
@@ -541,7 +541,7 @@ opacity: 0.75 !important;
 } 
 
 [name="Table4_303"]{
-position: absolute !important;
+position: relative !important;
 top: 272px !important;
 left: 590px !important;
 width: 515px !important;
@@ -613,7 +613,7 @@ opacity: 1 !important;
 }
 
 [name="Table7_11"]{
-   position: absolute !important;
+   position: relative !important;
    top: 473px !important;
 left: 40px !important;
 width: 515px !important;
@@ -627,7 +627,7 @@ opacity: 1 !important;
 }
 
 [name="Table6_1"]{
-   position: absolute !important;
+   position: relative !important;
    top: 272px !important;
 left: 40px !important;
 width: 515px !important;
@@ -641,7 +641,7 @@ opacity: 1 !important;
 }
 
 [name="Table5_12"]{
-   position: absolute !important;
+   position: relative !important;
    top: 473px !important;
 left: 590px !important;
 width: 515px !important;
