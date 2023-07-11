@@ -35,7 +35,7 @@ opacity: 1 !important;
 }
 
 [name='Label5_11']{
-   position: absolute !important;
+   
    top: 0px !important;
 left: 2px !important;
 width: 153px !important;
@@ -49,7 +49,7 @@ color: #FFFFFF !important;
 }
 
 [name='Label6_11']{
-   position: absolute !important;
+   
    top: 34px !important;
 left: 54px !important;
 width: 101px !important;
@@ -63,7 +63,7 @@ color: #A7CFFF !important;
 }
 
 [name='Label7_11']{
-   position: absolute !important;
+   
    top: 67px !important;
 left: 52px !important;
 width: 103px !important;
@@ -77,7 +77,7 @@ color: #A7CFFF !important;
 }
 
 [name='Label8_11']{
-   position: absolute !important;
+  
    top: 100px !important;
 left: 86px !important;
 width: 69px !important;
@@ -91,7 +91,7 @@ color: #FFFFFF !important;
 }
 
 [name='Label9_11']{
-   position: absolute !important;
+   
    top: 165px !important;
 left: 53px !important;
 width: 102px !important;
@@ -105,7 +105,7 @@ color: #A7CFFF !important;
 }
 
 [name='Label10_11']{
-   position: absolute !important;
+   
    top: 231px !important;
 left: 100px !important;
 width: 55px !important;
@@ -202,7 +202,7 @@ background: transparent url('img/search_icon.png') 0% 0% no-repeat padding-box !
 opacity: 1 !important;
 } 
 [name='Label1']{
-position: absolute !important;
+
 top: 27px !important;
 left: 915px !important;
 width: 170px !important;
@@ -217,7 +217,7 @@ opacity: 1 !important;
 }
 
 [name='Label_999']{
-position: absolute !important;
+
 top: 23px !important;
 left: 40px !important;
 width: 94px !important;
@@ -246,7 +246,7 @@ opacity: 1 !important;
 
 
 [name='Label1_1']{
-   position: absolute !important;
+   
 top: 115px !important;
 left: 976px !important;
 width: 129px !important;
@@ -297,7 +297,7 @@ height: 39px !important;
 }
 
 [name="Label2"]{
-position: absolute !important;
+
 top: 196px !important;
 left: 1032px !important;
 width: 59px !important;
@@ -339,7 +339,7 @@ opacity: 1 !important;
 
 
 [name="Label7_98"]{
-   position: absolute !important;
+  
 top: 339px !important;
 left: 848px !important;
 width: 140px !important;
@@ -353,7 +353,7 @@ color: #004687 !important;
 opacity: 1 !important;
 }
 [name="Label9_43"]{
-position: absolute !important;
+
 top: 383px !important;
 left: 980px !important;
 width: 8px !important;
@@ -368,7 +368,7 @@ opacity: 1 !important;
 }
 
 [name="Label3_19"]{
-position: absolute !important;
+
 top: 289px !important;
 left: 620px !important;
 width: 96px !important;
@@ -382,7 +382,7 @@ color: #0066CC !important;
 opacity: 1 !important;
 }
 [name="Label5_09"]{
-position: absolute !important;
+
 top: 384px !important;
 left: 635px !important;
 width: 82px !important;
@@ -431,7 +431,7 @@ opacity: 1 !important;
 }
 
 [name="Label4"]{
-position: absolute !important;
+
 top: 196px !important;
 left: 824px !important;
 width: 57px !important;
@@ -446,7 +446,7 @@ opacity: 1 !important;
 }
 
 [name="Label6"]{
-position: absolute !important;
+
 top: 196px !important;
 left: 600px !important;
 width: 71px !important;
@@ -498,7 +498,7 @@ opacity: 0.21 !important;
 }
 
 [name="Label_t"]{
-position: absolute !important;
+
 top: 193px !important;
 left: 951px !important;
 width: 12px !important;
@@ -512,7 +512,7 @@ color: #FFFFFF !important;
 opacity: 1 !important;
 }
 [name="Label_a"]{
-position: absolute !important;
+
 top: 193px !important;
 left: 741px !important;
 width: 12px !important;
@@ -526,7 +526,7 @@ color:  #FFFFFF !important;
 opacity: 0.75 !important;
 }
 [name="Label_b"]{
-position: absolute !important;
+
 top: 193px !important;
 left: 527px !important;
 width: 20px !important;
@@ -555,7 +555,6 @@ opacity: 1 !important;
 }
 
 [name="Label_a12"]{
-position: absolute !important;
 top: 290px !important;
 left: 1007px !important;
 width: 68px !important;
@@ -569,7 +568,6 @@ color: #505050 !important;
 opacity: 1 !important;
 }
 [name="Label8_098"]{
-position: absolute !important;
 top: 339px !important;
 left: 1024px !important;
 width: 51px !important;
@@ -583,7 +581,6 @@ color: #505050 !important;
 opacity: 1 !important;
 }
 [name="Label10_99"]{
-position: absolute !important;
 top: 383px !important;
 left: 1024px !important;
 width: 51px !important;
@@ -598,7 +595,6 @@ opacity: 1 !important;
 }
 
 [name="Label1_123"]{
-position: absolute !important;
 top: 285px !important;
 left: 850px !important;
 width: 70px !important;
@@ -613,7 +609,6 @@ opacity: 1 !important;
 }
 
 [name="Table7_11"]{
-   position: absolute !important;
    top: 473px !important;
 left: 40px !important;
 width: 515px !important;
