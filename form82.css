@@ -9,6 +9,19 @@ background: var(--unnamed-color-ebf3fd) 0% 0% no-repeat padding-box !important;
 background: #EBF3FD 0% 0% no-repeat padding-box !important;
 opacity: 1 !important;
 }
+[name='V1'] { 
+position: absolute !important;
+top: 115px !important;
+left: 1140px !important;
+width: 226px !important;
+height: 1155px !important;
+/* UI Properties */
+background: var(--unnamed-color-0066cc) 0% 0% no-repeat padding-box !important;
+background: #0066CC 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 15px #0066CC80 !important;
+border-radius: 15px 0px 0px 0px !important;
+opacity: 1 !important;
+}
 
 
 [name='V2'] {
