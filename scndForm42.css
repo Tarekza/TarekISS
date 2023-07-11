@@ -12,7 +12,7 @@ opacity: 1 !important;
 
 
 [name='V1'] { 
-position: fixed !important;
+position: absolute !important;
 top: 115px !important;
 left: 1140px !important;
 width: 226px !important;
@@ -26,7 +26,7 @@ opacity: 1 !important;
 }
 
 [name="Table4"]{
-   position: fixed !important;
+   position: absolute !important;
    top: 137px !important;
 left: 1155px !important;
 width: 155px !important;
