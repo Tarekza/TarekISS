@@ -1,0 +1,373 @@
+[name='form1']{
+position: relative !important;
+top: 0px !important;
+left: 0px !important;
+width: 1366px !important;
+height: 768px !important;
+/* UI Properties */
+background: var(--unnamed-color-ebf3fd) 0% 0% no-repeat padding-box !important;
+background: #EBF3FD 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
+
+[name='V2'] {
+position: absolute !important;
+top: 0px !important;
+left: 0px !important;
+width: 1366px !important;
+height: 80px !important;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box !important;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
+
+[name="Table"]{
+position: absolute !important;
+top: 0px !important;
+left: 0px !important;
+width: 1366px !important;
+height: 80px !important;
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box !important;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
+
+[name='Picture1']{
+position: absolute !important;
+
+top: 14px !important;
+left: 1143px !important;
+width: 181px !important;
+height: 51px !important;
+/* UI Properties */
+background: transparent url('img/swcc-logo.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
+
+[name='Picture2']{
+position: absolute !important;
+
+top: 20px !important;
+left: 260px !important;
+width: 40px !important;
+height: 40px !important;
+/* UI Properties */
+background: transparent url('img/notification_icon.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
+[name='Picture']{
+   position: absolute !important;
+
+top: 14px !important;
+left: 147px !important;
+width: 52px !important;
+height: 52px !important;
+/* UI Properties */
+background: transparent url('img/User_photo.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
+[name="Picture3"]{
+   position: absolute !important;
+
+top: 30px !important;
+left: 500px !important;
+width: 20px !important;
+height: 20px !important;
+/* UI Properties */
+background: transparent url('img/search_icon.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+} 
+[name='Label1']{
+position: absolute !important;
+top: 27px !important;
+left: 915px !important;
+width: 170px !important;
+height: 27px !important;
+/* UI Properties */
+color: var(--unnamed-color-c9c9c9) !important;
+text-align: right !important;
+font: normal normal medium 16px/27px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #C9C9C9 !important;
+opacity: 1 !important;
+}
+
+[name='Label_999']{
+position: absolute !important;
+top: 23px !important;
+left: 40px !important;
+width: 94px !important;
+height: 34px !important;
+color: var(--unnamed-color-0066cc) !important;
+text-align: right !important;
+font: normal normal bold 20px/34px SWCC !important;
+letter-spacing: 0.4px !important;
+color: #0066CC !important;
+opacity: 1 !important;
+}
+
+[name='V1'] { 
+position: absolute !important;
+top: 115px !important;
+left: 1140px !important;
+width: 226px !important;
+height: 653px !important;
+/* UI Properties */
+background: var(--unnamed-color-0066cc) 0% 0% no-repeat padding-box !important;
+background: #0066CC 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 15px #0066CC80 !important;
+border-radius: 15px 0px 0px 0px !important;
+opacity: 1 !important;
+}
+[name="Table4"]{
+   position: absolute !important;
+   top: 137px !important;
+left: 1155px !important;
+width: 155px !important;
+height: 262px !important;
+/* UI Properties */
+text-align: right !important;
+letter-spacing: NaNpx !important;
+opacity: 1 !important;
+}
+
+[name='Label5_11']{
+    position: absolute !important;
+   top: 0px !important;
+left: 2px !important;
+width: 153px !important;
+height: 27px !important;
+/* UI Properties */
+color: var(--unnamed-color-ffffff) !important;
+text-align: right !important;
+font: normal normal bold 16px/33px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #FFFFFF !important;
+}
+
+[name='Label6_11']{
+    position: absolute !important;
+   top: 34px !important;
+left: 54px !important;
+width: 101px !important;
+height: 25px !important;
+/* UI Properties */
+color: var(--unnamed-color-a7cfff) !important;
+text-align: right !important;
+font: normal normal medium 15px/33px SWCC !important;
+letter-spacing: 0.3px !important;
+color: #A7CFFF !important;
+}
+
+[name='Table7_11']{
+   position: absolute !important;
+   top: 473px !important;
+left: 40px !important;
+width: 515px !important;
+height: 166px !important;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box !important;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 15px #0066CC40 !important;
+border-radius: 15px !important;
+opacity: 1 !important;
+}
+
+[name='Label8_11']{
+   position: absolute !important;
+   top: 100px !important;
+left: 86px !important;
+width: 69px !important;
+height: 25px !important;
+/* UI Properties */
+color: var(--unnamed-color-ffffff) !important;
+text-align: right !important;
+font: normal normal medium 15px/33px SWCC !important;
+letter-spacing: 0.3px !important;
+color: #FFFFFF !important;
+}
+
+[name='Label9_11']{
+    position: absolute !important;
+   top: 165px !important;
+left: 53px !important;
+width: 102px !important;
+height: 27px !important;
+/* UI Properties */
+color: var(--unnamed-color-a7cfff) !important;
+text-align: right !important;
+font: normal normal bold 16px/33px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #A7CFFF !important;
+}
+
+[name='Label10_11']{
+    position: absolute !important;
+   top: 231px !important;
+left: 100px !important;
+width: 55px !important;
+height: 27px !important;
+/* UI Properties */
+color: var(--unnamed-color-a7cfff) !important;
+text-align: right !important;
+font: normal normal bold 16px/33px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #A7CFFF !important;
+}
+
+[name='Picture4_a']{
+    position: absolute !important;
+   top: 137px !important;
+left: 1323px !important;
+width: 28px !important;
+height: 28px !important;
+background: transparent url('img/menu_investigations_icon_selected.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
+[name='Picture5_b']{
+  position: absolute !important;
+
+top: 301px !important;
+left: 1323px !important;
+width: 28px !important;
+height: 28px !important;
+  background: transparent url('img/menu_legal_icon.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+}
+[name='Picture6_c']{
+    position: absolute !important;
+
+top: 367px !important;
+left: 1323px !important;
+width: 28px !important;
+height: 28px !important;
+background: transparent url('img/menu_government_icon.png') 0% 0% no-repeat padding-box !important;
+opacity: 1 !important;
+   
+}
+
+[name="Table3"]{
+position: absolute !important;
+top: 115px !important;
+left: 976px !important;
+width: 129px !important;
+height: 39px !important;
+}
+
+[name='Label1_1']{
+position: absolute !important;
+top: 115px !important;
+left: 976px !important;
+width: 129px !important;
+height: 39px !important;
+/* UI Properties */
+color: var(--unnamed-color-004687) !important;
+text-align: right !important;
+font: normal normal bold 23px/39px SWCC !important;
+letter-spacing: 0.46px !important;
+color: #004687 !important;
+opacity: 1 !important;
+}
+
+[name='Table1']{
+position: absolute !important;
+top: 187px !important;
+left: 710px !important;
+width: 185px !important;
+height: 51px !important;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box !important;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 15px #0066CC40 !important;
+border-radius: 10px 10px 2px 2px !important;
+opacity: 1 !important;
+}
+
+[name='Table2']{
+position: absolute !important;
+left:920px !important;
+top: 187px !important;
+width: 185px !important;
+height: 51px !important;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box !important;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 15px #0066CC40 !important;
+border-radius: 10px 10px 2px 2px !important;
+opacity: 1 !important;
+}
+
+[name='Table_009']{
+position: absolute !important;
+left: 500px !important;
+top: 187px !important;
+width: 185px !important;
+height: 51px !important;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box !important;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 15px #0066CC40 !important;
+border-radius: 10px 10px 2px 2px !important;
+opacity: 1 !important;
+}
+
+[name="Table4_303"]{
+position: absolute !important;
+top: 272px !important;
+left: 590px !important;
+width: 515px !important;
+height: 166px !important;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box !important;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 15px #0066CC40 !important;
+border-radius: 15px !important;
+opacity: 1 !important;
+}
+
+[name="Table6_1"]{
+   position: absolute !important;
+   top: 272px !important;
+left: 40px !important;
+width: 515px !important;
+height: 166px !important;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 15px #0066CC40 !important;
+border-radius: 15px !important;
+opacity: 1 !important;
+}
+
+[name="Table5_12"]{
+   position: absolute !important;
+   top: 473px !important;
+left: 590px !important;
+width: 515px !important;
+height: 166px !important;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 15px #0066CC40 !important;
+border-radius: 15px !important;
+opacity: 1 !important;
+}
+
+[name='Table7_11']{
+   position: absolute !important;
+   top: 473px !important;
+left: 40px !important;
+width: 515px !important;
+height: 166px !important;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box !important;
+background: #FFFFFF 0% 0% no-repeat padding-box !important;
+box-shadow: 0px 0px 15px #0066CC40 !important;
+border-radius: 15px !important;
+opacity: 1 !important;
+}
+
+.panel-header {
+   display: none !important;
+}
