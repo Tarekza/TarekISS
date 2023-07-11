@@ -1,5 +1,5 @@
 [name="form1"]{
-position: absolute !important;
+position: fixed !important;
 top: 0px !important;
 left: 0px !important;
 height: 1270px !important;
@@ -24,6 +24,93 @@ box-shadow: 0px 0px 15px #0066CC80 !important;
 border-radius: 15px 0px 0px 0px !important;
 opacity: 1 !important;
 }
+
+[name='Label5_11']{
+   position: fixed !important;
+   top: 0px !important;
+left: 2px !important;
+width: 153px !important;
+height: 27px !important;
+/* UI Properties */
+color: var(--unnamed-color-ffffff) !important;
+text-align: right !important;
+font: normal normal bold 16px/33px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #FFFFFF !important;
+}
+
+[name='Label6_11']{
+   position: fixed !important;
+   top: 34px !important;
+left: 54px !important;
+width: 101px !important;
+height: 25px !important;
+/* UI Properties */
+color: var(--unnamed-color-a7cfff) !important;
+text-align: right !important;
+font: normal normal medium 15px/33px SWCC !important;
+letter-spacing: 0.3px !important;
+color: #A7CFFF !important;
+}
+
+[name='Label7_11']{
+   position: fixed !important;
+   top: 67px !important;
+left: 52px !important;
+width: 103px !important;
+height: 25px !important;
+/* UI Properties */
+color: var(--unnamed-color-a7cfff) !important;
+text-align: right !important;
+font: normal normal medium 15px/33px SWCC !important;
+letter-spacing: 0.3px !important;
+color: #A7CFFF !important;
+}
+
+[name='Label8_11']{
+   position: fixed !important;
+   top: 100px !important;
+left: 86px !important;
+width: 69px !important;
+height: 25px !important;
+/* UI Properties */
+color: var(--unnamed-color-ffffff) !important;
+text-align: right !important;
+font: normal normal medium 15px/33px SWCC !important;
+letter-spacing: 0.3px !important;
+color: #FFFFFF !important;
+}
+
+[name='Label9_11']{
+   position: fixed !important;
+   top: 165px !important;
+left: 53px !important;
+width: 102px !important;
+height: 27px !important;
+/* UI Properties */
+color: var(--unnamed-color-a7cfff) !important;
+text-align: right !important;
+font: normal normal bold 16px/33px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #A7CFFF !important;
+}
+
+[name='Label10_11']{
+   position: fixed !important;
+   top: 231px !important;
+left: 100px !important;
+width: 55px !important;
+height: 27px !important;
+/* UI Properties */
+color: var(--unnamed-color-a7cfff) !important;
+text-align: right !important;
+font: normal normal bold 16px/33px SWCC !important;
+letter-spacing: 0.32px !important;
+color: #A7CFFF !important;
+}
+
+
+
 [name='V2'] {
 position: fixed !important;
 top: 0px !important;
