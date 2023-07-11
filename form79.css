@@ -1,5 +1,5 @@
 [name='form1']{
-position: relative !important;
+position: fixed !important;
 top: 0px !important;
 left: 0px !important;
 width: 1366px !important;
@@ -173,7 +173,7 @@ color: #F96523 !important;
 opacity: 1 !important;
 }
 [name='Table1']{
-position: telative !important;
+position: absolute !important;
 top: 187px !important;
 left: 710px !important;
 width: 185px !important;
