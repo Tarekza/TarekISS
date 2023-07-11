@@ -157,6 +157,13 @@ background: #FFFFFF 0% 0% no-repeat padding-box !important;
 opacity: 1 !important;
 }
 
+[name="Table"]{
+position: absolute !important;
+top: 0px !important;
+left: 0px !important;
+width: 1366px !important;
+height: 80px !important;
+}
 
 [name='Picture1']{
 position: absolute !important;
