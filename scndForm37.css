@@ -131,7 +131,7 @@ background: transparent url('img/menu_investigations_icon_selected.png') 0% 0% n
 opacity: 1 !important;
 }
 [name='Picture5_b']{
-position: absolute !important;
+position: fixed !important;
 top: 301px !important;
 left: 1323px !important;
 width: 28px !important;
@@ -140,7 +140,7 @@ height: 28px !important;
 opacity: 1 !important;
 }
 [name='Picture6_c']{
-position: absolute !important;
+position: fixed !important;
 top: 367px !important;
 left: 1323px !important;
 width: 28px !important;
