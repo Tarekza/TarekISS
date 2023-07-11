@@ -122,7 +122,7 @@ color: #A7CFFF !important;
 }
 
 [name='Picture4_a']{
-    position: absolute !important;
+    position: fixed !important;
    top: 137px !important;
 left: 1323px !important;
 width: 28px !important;
